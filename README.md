@@ -204,7 +204,7 @@ plt.show()
 ```
 
 
-![png](data/US_Obesity_Percentages.png)
+![png](images/US_Obesity_Percentages.png)
 
 
 
@@ -341,7 +341,7 @@ plt.show()
 
 
 
-![png](data/US_Obesity_Rankings.png)
+![png](images/US_Obesity_Rankings.png)
 
 
 ## Restaurant Ratings Data Analysis
@@ -531,7 +531,7 @@ plt.show()
 ```
 
 
-![png](data/US_Obesity_x_Rating.png)
+![png](images/US_Obesity_x_Rating.png)
 
 
 ## State Ranking x Restaurant Ratings
@@ -885,7 +885,7 @@ plt.show()
 ```
 
 
-![png](data/Top5_Healthy_x_Unhealthy_Boxplot.png)
+![png](images/Top5_Healthy_x_Unhealthy_Boxplot.png)
 
 
 
@@ -938,7 +938,7 @@ plt.show()
 ```
 
 
-![png](data/Bottom5_Healthy_x_Unhealthy_Boxplot.png)
+![png](images/Bottom5_Healthy_x_Unhealthy_Boxplot.png)
 
 
 
@@ -991,7 +991,7 @@ plt.show()
 ```
 
 
-![png](data/Unhealthy_Top5_x_Bottom5_Boxplot.png)
+![png](images/Unhealthy_Top5_x_Bottom5_Boxplot.png)
 
 
 
@@ -1044,7 +1044,7 @@ plt.show()
 ```
 
 
-![png](data/Healthy_Top5_x_Bottom5_Boxplot.png)
+![png](images/Healthy_Top5_x_Bottom5_Boxplot.png)
 
 
 
