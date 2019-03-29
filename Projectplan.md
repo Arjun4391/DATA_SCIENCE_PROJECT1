@@ -1,3 +1,0 @@
-# Project Plan
-
-Arjun Subramaniam
